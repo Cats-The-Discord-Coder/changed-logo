@@ -966,24 +966,6 @@ button[aria-label="Send a gift"] {
 .typeWindows_a934d8 {
   position: relative;
 }
-.wordmark_a934d8 {
-  display: flex;
-  align-items: center;
-  padding: 0 6px;
-  height: calc(100% + 4px);
-  top: -4px;
-  font-size: 14px;
-  font-weight: 600;
-  font-family: "Lato";
-  color: var(--darkplus-sec);
-}
-.wordmark_a934d8 > svg {
-  display: none;
-}
-.wordmark_a934d8:after {
-  filter: invert(var(--watermark-filter-invert)) sepia(var(--watermark-filter-sepia)) saturate(var(--watermark-filter-saturate)) hue-rotate(var(--watermark-filter-hue-rotate)) brightness(var(--watermark-filter-brightness)) contrast(var(--watermark-filter-contrast));
-  content: url("DiscordLogo.png,%3Csvg id='svg' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='200' height='25.008358408559012' viewBox='0, 0, 400,25.008358408559012'%3E%3Cg")
-}
 
 .channelName-3KPsGw,
 .subtitle_d8bfb3 {
